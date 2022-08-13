@@ -46,7 +46,7 @@ public class MazeRecursion {
 		// maze
 		// The first parameter is the map
 		// Second parameter is x coordinate of your target
-		// Thrid parameter is the y coordinate of your target
+		// Third parameter is the y coordinate of your target
 		setWay(map, 1, 1);
 		setWay2(map2, 1, 1);
 
